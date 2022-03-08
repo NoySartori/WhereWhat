@@ -1,7 +1,10 @@
+import { Blog } from "../blog-model/blog-model";
+
 export interface User {
-    firstName:string,
-    lastName:string,
+    name:string,
     email:string,
     img:string,
     gender:string,
+    information:string,
+    blogs:Blog[]
 }

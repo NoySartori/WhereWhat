@@ -2,34 +2,34 @@
     {
         "id":"1",
         "title": "We are the world",
-        "content":"Five tips to save the world from ourselves",
+        "preview":"Five tips to save the world from ourselves",
         "subject":"nature",
-        "author":"Noy Sartori",
+        "author":"Mike Dean",
         "img":"https://canterbury.ai/wp-content/uploads/2021/11/AI-Could-Help-Save-the-Planet.jpg"
     },
     {
         "id":"2",
         "title": "Music as therapy for humanity",
-        "content":"Dating with Kanye West also called ye",
+        "preview":"Dating with Kanye West also called ye",
         "subject":"music",
-        "author":"Noy Sartori" ,
+        "author":"Mike Dean" ,
         "img":"https://dailyscandinavian.com/wp-content/uploads/2016/10/281016-musicbrain.jpg"
     },
     {
         "id":"3",
         "title": "Traveling in Italy",
-        "content":"Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country",
+        "preview":"Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country",
         "subject":"world",
-        "author":"Noy Sartori",
+        "author":"Mike Dean",
         "img":"https://www.vaticancitytours.it/wp-content/uploads/2018/09/vatican-museums-inside.jpg"
         
     },
     {
         "id":"4",
         "title": "Creativity is the way to solve any problem",
-        "content":"How to motivate people to be creative?",
+        "preview":"How to motivate people to be creative?",
         "subject":"people",
-        "author":"Noy Sartori",
+        "author":"Mike Dean",
         "img":"https://m.economictimes.com/thumb/msid-71847583,width-1200,height-900,resizemode-4,imgsize-454592/shutterstock_375129304.jpg"
     }
 ]

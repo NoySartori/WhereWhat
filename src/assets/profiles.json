@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Mike Dean",
+        "email":"mike_d@gmail.com",
+        "img":"https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/p14lqavccbws3hqyrkkk/mike-dean?fimg-ssr-default",
+        "gender":"male",
+        "information" : "Best known for recording and mixing songs and synthesizers for major artists across the American hip hop industry such as Kanye West, Kid Cudi, 2Pac, Scarface, Travis Scott, 2 Chainz, Jay-Z, Desiigner, Drake, Madonna, and The Weeknd.",
+        "blogs": [
+            {
+            "id":"3",
+            "title": "Traveling in Italy",
+            "content":"Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country Meet the calture and history of the boot country",
+            "subject":"world",
+            "author":"Mike Dean",
+            "img":"https://www.vaticancitytours.it/wp-content/uploads/2018/09/vatican-museums-inside.jpg"
+            
+        },
+        {
+            "id":"2",
+            "title": "Music as therapy for humanity",
+            "content":"Dating with Kanye West also called ye",
+            "subject":"music",
+            "author":"Mike Dean" ,
+            "img":"https://dailyscandinavian.com/wp-content/uploads/2016/10/281016-musicbrain.jpg" 
+        }
+    ]
+    }
+]

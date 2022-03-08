@@ -1,0 +1,24 @@
+<div id="main-content" class="single-article" *ngFor="let blog of singleArtical">
+      
+       <mat-card-header *ngFor="let user of blog.user" (click)="navigate()">
+        
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-subtitle>{{user.name}}</mat-card-subtitle>
+        
+      </mat-card-header>
+
+    
+    <mat-card class="article-content">
+        
+        <img mat-card-sm-image src="{{blog.img}}" alt="relevent image">
+        <mat-card-header>
+            <mat-card-title class="article-title">{{blog.title}}</mat-card-title>
+        <mat-card-subtitle>{{blog.subject}}</mat-card-subtitle>
+        </mat-card-header>
+        
+
+        <mat-card-content>{{blog.content}}</mat-card-content>
+    </mat-card>
+   
+    
+</div>

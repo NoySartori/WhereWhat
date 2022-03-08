@@ -6,7 +6,7 @@
     <mat-card-subtitle>Dog Breed</mat-card-subtitle>
   </mat-card-header> -->
 
-  <mat-card class="blogs-container" *ngFor="let blog of blogList">
+  <mat-card class="blogs-container" *ngFor="let blog of blogList" (click)="navigate()">
     <mat-card-title-group>
       <mat-card-title>
         {{ blog.title }}
@@ -18,7 +18,7 @@
     </mat-card-title-group>
     
     <mat-card-content>
-        {{ blog.content }}
+        {{ blog.preview }}
     </mat-card-content>
      <mat-chip class="example-box"
     cdkDrag

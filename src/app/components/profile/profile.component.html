@@ -1,0 +1,31 @@
+
+  <div class="main-content">
+  <div class="container-fluid">
+      
+              <div class="card card-profile" *ngFor="let item of profile">
+                  <div class="card-avatar">
+                      <a href="javascript:void(0)">
+                          <img class="img" src="{{item.img}}" alt="relevent image" />
+                      </a>
+                  </div>
+                  <div class="card-body">
+                      <h4 class="card-title">
+                          {{item.name}}
+                      </h4>
+                      <p class="card-description">
+                          {{item.information}}
+                      </p>
+                     
+                  </div>
+              </div>
+              <div class="blogs-container" *ngFor="let item of profile">
+                <mat-card  class="blog-item" *ngFor="let blog of item.blogs" (click)="navigate()">
+                    <mat-card-title>{{blog.title}}</mat-card-title>
+                    <mat-card-subtitle>{{blog.subject}}</mat-card-subtitle>      
+                  </mat-card >
+
+              </div>
+            
+          </div>
+     
+</div>

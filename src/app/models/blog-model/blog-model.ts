@@ -4,6 +4,7 @@ export interface Blog{
     id:string,
     title:string,
     content:string,
+    preview:string,
     subject:string,
-    author:string    
+    user:User   
 }

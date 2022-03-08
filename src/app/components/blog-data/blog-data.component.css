@@ -1,0 +1,47 @@
+.example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  .mat-card{
+      margin-left: 30px;
+      margin-right: 30px;
+     
+  }
+  .image-blog{
+      margin-top: 0px;
+      height: 20px;
+      width: 100px;
+  }
+  .mat-card-header{
+      margin-left: 40px;
+      margin-top: 30px;
+      font-family: 'monospace';
+      font-size: 10px;
+      align-content: center;
+  }
+  .mat-card-title{
+      font-size: 70px;
+      align-content: center;
+      
+  }
+  .mat-card-subtitle{
+      font-size: 20px;
+      align-content: center;
+      
+  }
+  .mat-card-content{
+      font-size: 20px;
+      font-family: inherit;
+      margin-top: 20px;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+  .mat-card-sm-image{
+      height: 200px;
+      width: 800px;
+      margin-left: 50px;
+    
+
+  }
+ 
+ 

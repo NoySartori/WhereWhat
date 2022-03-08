@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "title": "We are the world",
+        "content":"1. USE YOUR VOICE\n We are the first generation to know we’re destroying the world, and we could be the last that can do anything about it. Speaking up is one of the most powerful things you can do especially if it’s to the right people. Talk to your MP. Tell them to commit to action to protect our natural world. Contact the brands you buy from and get them to tell you how their products are sourced. Use social media – this is one of the most effective ways to get brands to listen to you, so tell them that you want a change.It’s not just about speaking to the people in charge. Talk to your friends, neighbours and colleagues and get them to make positive changes too. Speak up, speak to everyone, and make your voice heard. 2. BE INFORMED One of the best things you can do is to keep yourself informed – the more you know the better. It leaves you better equipped to have those conversations with your friends and family and the people you want to influence. Get yourself clued up on the facts, stay up to date with recent news on the state of our natural world and work out what you can do. We have the world at our fingertips, so learn from influential people, keep up with the news and research organisations that are working to make our planet a better place. 3. BE POLITICAL Everyone in the UK over the age of 18 can vote for their MP. This is an opportunity to vote for someone who is representative of you and your views and will make the environment a top priority. Being politically engaged is not limited to voting and it certainly isn’t limited by how young you are. Every year more and more young people are working together to show our political leaders that they want change. We need to ensure we hold our politicians accountable. You can do that by contacting your local MP or attending constituency meetings where you will have an opportunity to make your voice heard",
+        "subject":"nature",
+        "img":"https://canterbury.ai/wp-content/uploads/2021/11/AI-Could-Help-Save-the-Planet.jpg",
+        "user":[
+            {
+                "name":"Mike Dean",
+                "email":"mike_d@gmail.com",
+                "img":"https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/p14lqavccbws3hqyrkkk/mike-dean?fimg-ssr-default" 
+            }
+        ]
+
+    }
+]

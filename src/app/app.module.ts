@@ -11,13 +11,17 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatChipsModule, MAT_CHIPS_DEFAULT_OPTIONS} from '@angular/material/chips';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
+import { ProfileComponent } from './components/profile/profile.component';
+import { BlogDataComponent } from './components/blog-data/blog-data.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BlogsComponent,
     AboutComponent,
-    NavBarComponent
+    NavBarComponent,
+    ProfileComponent,
+    BlogDataComponent
   ],
   imports: [
     BrowserModule,
